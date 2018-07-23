@@ -1,6 +1,6 @@
 # FeedReader
 
-Download repository to your computer and open it in your browser. Open file index.html in browser.
+Download repository to your computer. Open file index.html in a browser.
 
 ## Project
 
@@ -29,4 +29,4 @@ The application was tested using [Jasmine](http://jasmine.github.io/).
 
 ### How to check test results
 
-Download repository to your computer and open it in your browser. Open file index.html in browser. The test results will be displayed at the bottom of the page.
+Download repository to your computer. Open file index.html in a browser. The test results will be displayed at the bottom of the page.
