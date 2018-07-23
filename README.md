@@ -18,7 +18,7 @@ There is a menu icon in the left up corner. Once you click on it, you'll see the
 
 The application was tested using [Jasmine](http://jasmine.github.io/).
 
-### Next tests ware added
+### Next tests were added
 
 1. Test that loops through each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
 2. Test that loops through each feed in the allFeeds object and ensures it has a name defined and that the name is not empty.
